@@ -1,0 +1,10 @@
+Q:How do you import a module?
+A:We can import modules by creating our own modules and requiring them, or we can ad them to our package.json and install them using npm. 
+Q:What JavaScript statement do you use to export a module?
+A: exports.one = function(){};
+module.export
+
+Are there other ways to export a module?
+We can make module.export objects and function, we can create our function and then run the export.
+What are ES6 modules and how do they differ from the module we created from this checkpoint?
+Modules and ES6 modules differ since ES6 modules use module.export rather than the exports we use with our module from this lesson.
